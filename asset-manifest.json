@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routes-test-task/static/css/main.4f0a49ea.css",
+    "main.js": "/routes-test-task/static/js/main.f624be8b.js",
+    "index.html": "/routes-test-task/index.html",
+    "main.4f0a49ea.css.map": "/routes-test-task/static/css/main.4f0a49ea.css.map",
+    "main.f624be8b.js.map": "/routes-test-task/static/js/main.f624be8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0a49ea.css",
+    "static/js/main.f624be8b.js"
+  ]
+}
