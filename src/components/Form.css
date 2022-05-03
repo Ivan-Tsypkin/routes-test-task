@@ -1,0 +1,16 @@
+.sort-form {
+  display: flex;
+  width: fit-content;
+  gap: 30px;
+  justify-content: center;
+  height: 50px;
+}
+
+.sort-form__select-sort, .sort-form__sort-input, .sort-form__select-column {
+  font-family: "Roboto", Sans-Serif;
+  font-size: 20px;
+  background: #D8E6F3;
+  border: 0;
+  border-radius: 10px;
+  padding: 10px;
+}
